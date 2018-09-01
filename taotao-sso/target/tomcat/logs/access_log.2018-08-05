@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:05:29 +0800] "GET /page//showRegister HTTP/1.1" 200 7178 http-bio-8084-exec-1 355
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:05:29 +0800] "GET /css/regist.personal.css HTTP/1.1" 200 14124 http-bio-8084-exec-2 11
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:05:29 +0800] "GET /css/passport.base.css HTTP/1.1" 200 12504 http-bio-8084-exec-3 5
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:05:29 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 200 92010 http-bio-8084-exec-6 4
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:05:29 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 200 6060 http-bio-8084-exec-8 25
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:05:29 +0800] "GET /images/phone-bg.jpg HTTP/1.1" 200 16960 http-bio-8084-exec-5 6
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:05:29 +0800] "GET /images/regist-word.png HTTP/1.1" 200 809 http-bio-8084-exec-9 2
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:05:29 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8084-exec-9 4
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:05:41 +0800] "GET /page/showRegister HTTP/1.1" 200 7178 http-bio-8084-exec-9 3
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:06:23 +0800] "GET /page/showLogin HTTP/1.1" 200 3812 http-bio-8084-exec-9 67
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:06:23 +0800] "GET /css/login.css HTTP/1.1" 200 28031 http-bio-8084-exec-9 2
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:06:23 +0800] "GET /images/login-all-bg.png HTTP/1.1" 200 12219 http-bio-8084-exec-9 3
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:06:23 +0800] "GET /images/544a11d3Na5a3d566.png HTTP/1.1" 200 195803 http-bio-8084-exec-5 7
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:08:40 +0800] "GET /page/showRegister HTTP/1.1" 200 7178 http-bio-8084-exec-4 3
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:09:27 +0800] "GET / HTTP/1.1" 404 949 http-bio-8084-exec-4 2
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:22:09:34 +0800] "GET /page/showRegister HTTP/1.1" 200 7178 http-bio-8084-exec-4 2

@@ -1,0 +1,29 @@
+#服务层设置
+#REST服务设置,访问 taotao-rest
+REST_BASE_URL=http://localhost:8081/rest/
+#首页大广告位url
+REST_INDEX_AD_URL=/content/list/89
+#rest服务-获得商品基本信息
+ITME_INFO_URL=item/info/
+#rest服务-获得商品描述信息
+ITME_DESC_URL=item/desc/
+#rest服务-获得商品参数信息
+ITME_PARAM_URL=item/param/
+
+#全文检索-solr服务设置,访问 taotao-search
+SEARCH_BASE_URL=http://localhost:8083/search/
+
+#单点登录基础URL,访问 taotao-sso
+SSO_BASE_URL=http://localhost:8084/
+#用户tokenURl
+SSO_GET_USER_BY_TOKEN_URL=user/token/
+#访问登录页面
+SSO_PAGE_LOGIN=page/showLogin
+#cookie中用户购物车的key
+CART_COOKIE_NAME=TT_CART
+
+#订单服务 访问 taotao-order
+ORDER_BASE_URL=http://localhost:8085/order/
+ORDER_CREATE_URL=create
+
+

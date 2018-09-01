@@ -1,0 +1,10 @@
+#Redis资源配置
+REDIS.HOST=192.168.137.10
+REDIS.PORT=6379
+#redis中保存用户信息的key
+REDIS_USER_SESSION_KEY=REDIS_USER_SESSION_KEY
+#redis中保存用户信息的key的过期时间
+SSO_SESSION_EXPIRE=1800
+
+
+
